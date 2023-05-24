@@ -1,11 +1,11 @@
 
-# Hello Everyone! I'm [Annu](https://github.com/annu100) <img src="https://github.com/Deeshant2234/Deeshant2234/blob/main/Buttons/Hi.gif" width="25px">
+# Hello Everyone! I'm [Annu](https://github.com/annu100) <img src="https://github.com/annu100/annu100/blob/main/Buttons/Hi.gif" width="25px">
 <br><br>
-<a href="https://www.linkedin.com/in/deeshantsharma/">
-  <img align="left" alt="Annu's Linkedin" width="120px" src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/linkedin.svg" />
+<a href="https://www.linkedin.com/in/annu-ba07421b2/">
+  <img align="left" alt="Annu's Linkedin" width="120px" src="https://github.com/annu100/annu100/blob/main/Buttons/linkedin.svg" />
 </a>
-<a href="https://github.com/Deeshant2234">
-  <img align="left" alt="Annu's Github" width="100px" src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/github.svg" />
+<a href="https://github.com/annu100">
+  <img align="left" alt="Annu's Github" width="100px" src="https://github.com/annu100/annu100/blob/main/Buttons/github.svg" />
 </a>
 
 <br><br>
@@ -14,7 +14,7 @@
 ## <p align="center"><h4 align="center"><samp>A learner by heart and a researcher by passion with an aim to see what everybody else has seen and to think what nobody else has thought</samp></h4></p>
 
 <div>
-<img align="right" src="https://github.com/Deeshant2234/Deeshant2234/blob/main/processing.gif" width="35%" height="300"/>
+<img align="right" src="https://github.com/annu100/annu100/blob/main/processing.gif" width="35%" height="300"/>
   <br>
 
 - 👷 <samp>Electrical Engineering | IITH | 8.19/10 CGPA 
@@ -24,12 +24,12 @@
 ##
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
-![Matlab](https://github.com/Deeshant2234/Deeshant2234/blob/main/Buttons/matlab.svg)
-![C](https://github.com/Deeshant2234/Deeshant2234/blob/main/Buttons/c.svg)
-![C++](https://github.com/Deeshant2234/Deeshant2234/blob/main/Buttons/c%2B%2B.svg)
-![Arduino](https://github.com/Deeshant2234/Deeshant2234/blob/main/Buttons/arduino.svg)
-![Rapspberry Pi](https://github.com/Deeshant2234/Deeshant2234/blob/main/Buttons/raspberrypi.svg)
-![Python](https://github.com/Deeshant2234/Deeshant2234/blob/main/Buttons/python.svg)
+![Matlab](https://github.com/annu100/annu100/blob/main/Buttons/matlab.svg)
+![C](https://github.com/annu100/annu100/blob/main/Buttons/c.svg)
+![C++](https://github.com/annu100/annu100/blob/main/Buttons/c%2B%2B.svg)
+![Arduino](https://github.com/annu100/annu100/blob/main/Buttons/arduino.svg)
+![Rapspberry Pi](https://github.com/annu100/annu100/blob/main/Buttons/raspberrypi.svg)
+![Python](https://github.com/annu100/annu100/blob/main/Buttons/python.svg)
 
   
 <span> 
