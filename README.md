@@ -1,15 +1,15 @@
 
-# Hello Everyone! I'm [Deeshant Sharma](https://github.com/Deeshant2234) <img src="https://github.com/Deeshant2234/Deeshant2234/blob/main/Buttons/Hi.gif" width="25px">
+# Hello Everyone! I'm [Annu](https://github.com/annu100) <img src="https://github.com/Deeshant2234/Deeshant2234/blob/main/Buttons/Hi.gif" width="25px">
 <br><br>
 <a href="https://www.linkedin.com/in/deeshantsharma/">
-  <img align="left" alt="Deeshant's Linkedin" width="120px" src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/linkedin.svg" />
+  <img align="left" alt="Annu's Linkedin" width="120px" src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/linkedin.svg" />
 </a>
 <a href="https://github.com/Deeshant2234">
-  <img align="left" alt="Deeshant Sharma's Github" width="100px" src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/github.svg" />
+  <img align="left" alt="Annu's Github" width="100px" src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/github.svg" />
 </a>
 
 <br><br>
-![](https://github.com/Deeshant2234/Deeshant2234/blob/main/poster.png)
+![](https://github.com/annu100/annu100/blob/main/poster.png)
 
 ## <p align="center"><h4 align="center"><samp>A learner by heart and a researcher by passion with an aim to see what everybody else has seen and to think what nobody else has thought</samp></h4></p>
 
