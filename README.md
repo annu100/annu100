@@ -47,19 +47,19 @@
 <h3><b><samp>Check out my Repositories</samp></b></h3>
 
   <span>
-<a href="https://github.com/Deeshant2234/Sensing-and-planning-for-autonomous-">
-  <img align="center" src="https://github.com/Deeshant2234/Deeshant2234/blob/main/8e4c3a6b200f1eafa367fc0689f350ab.gif" width="260"  height="200" />
+<a href="https://github.com/annu100/Sensing-and-planning-for-autonomous-navigation">
+  <img align="center" src="https://github.com/annu100/annu100/blob/main/8e4c3a6b200f1eafa367fc0689f350ab.gif" width="260"  height="200" />
 </a>
   </span>
   
    <span>
-<a href="https://github.com/Deeshant2234/Communications-and-Signal-Processing">
-  <img align="center" src="https://github.com/Deeshant2234/Deeshant2234/blob/main/B4OU.gif" width="280" height="250"/>
+<a href="https://github.com/annu100/Pattern-Recognition-and-Machine-learning">
+  <img align="center" src="" width="280" height="250"/>
 </a>
   </span>
  
   <span>
-<a href="https://github.com/Deeshant2234/Introduction-to-Data-Signal-and-Image-Analysis-with-MATLAB">
+<a href="https://github.com/annu100/AI5002-Probability-and-Random-variables">
   <img align="center" width="260" height="200" src="https://github.com/Deeshant2234/Deeshant2234/blob/main/large.jpg" />
 </a>
   </span>
