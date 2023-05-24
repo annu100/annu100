@@ -54,13 +54,13 @@
   
    <span>
 <a href="https://github.com/annu100/Pattern-Recognition-and-Machine-learning">
-  <img align="center" src="https://github.com/annu100/annu100/blob/main/Machine-Learning-and-Pattern-Recognition.jpg" width="280" height="250"/>
+  <img align="center" src="https://github.com/annu100/annu100/blob/main/Machine-Learning-and-Pattern-Recognition.jpg" width="280" height="200"/>
 </a>
   </span>
   
   <span>
 <a href="https://github.com/annu100/AI5002-Probability-and-Random-variables">
-  <img align="center" width="260" height="200" src="https://github.com/annu100/annu100/blob/main/B4OU.gif" />
+  <img align="center" width="260" height="250" src="https://github.com/annu100/annu100/blob/main/B4OU.gif" />
 </a>
   </span>
   
