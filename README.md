@@ -67,7 +67,7 @@
 <hr>
   
 ### Github Stats
-  ![Annu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  ![Annu's GitHub stats](https://github-readme-stats.vercel.app/api?username=annu100&show_icons=true&theme=radical)
   
 <br>
   
