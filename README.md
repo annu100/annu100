@@ -34,12 +34,12 @@
   
 <span> 
   
-<img src="https://github.com/Deeshant2234/Deeshant2234/blob/main/arduino_logo.svg" alt="drawing" width="50"/>
-<img src="https://github.com/Deeshant2234/Deeshant2234/blob/main/raspberrypi_logo.svg" alt="drawing" width="50"/>
-<img src="https://github.com/Deeshant2234/Deeshant2234/blob/main/c%2B%2B_logo.svg" alt="drawing" width="50"/>
-<img src="https://github.com/Deeshant2234/Deeshant2234/blob/main/python_logo.svg" alt="drawing" width="50"/>
-<img src="https://github.com/Deeshant2234/Deeshant2234/blob/main/mysql_logo.svg" alt="drawing" width="50"/>
-<img src="https://github.com/Deeshant2234/Deeshant2234/blob/main/readme_logo.svg" alt="drawing" width="50"/>
+<img src="https://github.com/annu100/annu100/blob/main/arduino_logo.svg" alt="drawing" width="50"/>
+<img src="https://github.com/annu100/annu100/blob/main/raspberrypi_logo.svg" alt="drawing" width="50"/>
+<img src="https://github.com/annu100/annu100/blob/main/c%2B%2B_logo.svg" alt="drawing" width="50"/>
+<img src="https://github.com/annu100/annu100/blob/main/python_logo.svg" alt="drawing" width="50"/>
+<img src="https://github.com/annu100/annu100/blob/main/mysql_logo.svg" alt="drawing" width="50"/>
+<img src="https://github.com/annu100/annu100/blob/main/readme_logo.svg" alt="drawing" width="50"/>
 </span>
       
 <hr> 
@@ -69,10 +69,10 @@
 ### Github Stats
   
 <p align="center">
-  <a href="https://github.com/Deeshant2234"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Deeshant2234&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Deeshant2234&theme=radical" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Deeshant2234&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
+  <a href="https://github.com/annu100"><span>
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=annu100&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=annu100&theme=radical" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=annu100&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
     </span></a>
 </p>
   
