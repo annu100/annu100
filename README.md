@@ -17,8 +17,8 @@
 <img align="right" src="https://github.com/annu100/annu100/blob/main/processing.gif" width="35%" height="300"/>
   <br>
 
-- 👷 <samp>Electrical Engineering | IITH | 8.19/10 CGPA 
-- ⚡ <samp>Fun fact: Everything requires some form of coding !!
+- 👷 <samp>Electrical Engineering |Ph.D.| PMRF Scholar | IITH | 9.19/10 CGPA 
+- ⚡ <samp>Research Interest: Cellular Vehicular Communication | Resource Allocation | PHY/MAC Layer | ITS
 </div>
 
 ##
